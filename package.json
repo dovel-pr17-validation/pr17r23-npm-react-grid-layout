@@ -118,7 +118,7 @@
   "devDependencies": {
     "@babel/cli": "^7.28.6",
     "@babel/core": "^7.29.0",
-    "@babel/eslint-parser": "^7.28.6",
+    "@babel/eslint-parser": "^7.29.9",
     "@babel/plugin-transform-class-properties": "^7.28.6",
     "@babel/preset-env": "^7.29.0",
     "@babel/preset-react": "^7.27.1",
